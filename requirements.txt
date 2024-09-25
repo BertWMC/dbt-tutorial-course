@@ -1,1 +1,2 @@
 dbt-bigquery==1.6.1
+setuptools ## added as project based on older version of dbt
